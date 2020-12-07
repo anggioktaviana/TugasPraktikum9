@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kaza Resto</string>
+    <string name="hint_word">Menu...</string>
+    <string name="button_save">Simpan</string>
+    <string name="empty_not_saved">Kata tidak dapat disimpan karena kosong</string>
+    <string name="deleted">Berhasil dihapus</string>
+</resources>
